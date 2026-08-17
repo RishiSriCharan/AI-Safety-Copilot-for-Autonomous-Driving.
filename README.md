@@ -39,7 +39,7 @@ This project evaluates deep learning perception and prediction algorithms by com
 
 * **CARLA: An Open Urban Driving Simulator** — [arXiv Paper Link](https://arxiv.org/abs/1711.03938)
 * **BDD100K: A Diverse Driving Dataset for Heterogeneous Multitask Learning** — [arXiv Paper Link](https://arxiv.org/abs/1805.04687)
-* 
+  
 
 ---
 
